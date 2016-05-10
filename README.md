@@ -1,2 +1,3 @@
-# QQ-
-QQ好友列表，不用section直接用cell，有动画
+### 长按排序
+类似苹果首页长按排序
+![image](https://github.com/Yuedevelopment/collectionPanSort/blob/master/panSort.gif)
